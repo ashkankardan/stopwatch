@@ -1,4 +1,4 @@
-![Final version](./images/final.gif)
+![Final version](https://user-images.githubusercontent.com/45542510/92418367-d840a300-f16f-11ea-84de-0abb034b1a2a.gif)
 
 # stopwatch-challenge
 
