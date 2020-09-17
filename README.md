@@ -1,3 +1,5 @@
+![Final version](./images/final.gif)
+
 # stopwatch-challenge
 
 Using HTML, CSS, and JavaScript to build a stopwatch application.
