@@ -1,0 +1,77 @@
+main {
+  margin: 20px auto;
+  width: 400px;
+  height: 400px;
+  border: 5px solid black;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgb(66, 66, 66) 2px 2px;
+}
+
+.row {
+  width: 80%;
+  height: 25%;
+}
+
+.timeBox {
+  border-bottom: 2px solid red;
+  box-shadow: black 0px 1px;
+}
+
+.btnBox,
+.timeBox {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.btnBox {
+  margin-bottom: 20px;
+}
+
+.timeBox,
+.milS {
+  font-size: 4rem;
+}
+
+.milS > h3 {
+  margin: 0 auto;
+}
+
+.laps {
+  margin: 1rem auto;
+  height: 310px;
+  width: 500px;
+  overflow: scroll;
+}
+
+.newLap {
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid red;
+  padding: 0 0.2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+.btns {
+  width: 30%;
+  font-size: 1.5rem;
+  box-shadow: rgb(66, 66, 66) 2px 2px;
+  border-radius: 10px;
+}
+
+.btns:hover {
+  color: red;
+  background-color: black;
+  background-origin: lightgray 2px 2px;
+}
+
+.hide {
+  display: none;
+}
