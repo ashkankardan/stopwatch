@@ -1,4 +1,4 @@
-![Final version](./images/stopwatch.gif)
+![Stopwatch preview](./images/stopwatch.gif)
 
 # stopwatch-challenge
 
